@@ -6,3 +6,4 @@
 -**objective**: ユーザーが異なる情報を簡単に切り替えられるようにするためのタブインターフェースを提供すること
 -**使用技術**: HTML, CSS, Javascript
 
+https://roadmap.sh/projects/simple-tabs
